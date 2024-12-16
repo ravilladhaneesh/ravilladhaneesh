@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [github-repo-manager](https://d5k312ns5lbpi.cloudfront.net)
 
-- 🌱 I’m currently learning **AWS** **Spring Boot**
+- 🌱 I’m currently learning **AWS**, **Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ravilladhaneesh](https://github.com/ravilladhaneesh)
 
