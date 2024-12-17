@@ -19,9 +19,5 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravilladhaneesh&show_icons=true&locale=en&layout=compact&hide=Jupyter%20Notebook" alt="ravilladhaneesh" /></p>
-<!--
-<p><iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?ravilladhaneesh" frameborder="0"></iframe></p>
--->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravilladhaneesh&show_icons=true&locale=en" alt="ravilladhaneesh" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravilladhaneesh&" alt="ravilladhaneesh" /></p>
