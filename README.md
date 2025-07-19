@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ravilla Dhaneesh</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-- 🔭 I’m currently working on [github-repo-manager](https://d5k312ns5lbpi.cloudfront.net)
+- 🔭 I’m currently working on [securethem](https://securethem.com)
 
-- 🌱 I’m currently learning **AWS**, **Flask**, **Docker**
+- 🌱 I’m currently learning and enhancing my skills on **AWS**, **Flask**, **Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ravilladhaneesh](https://github.com/ravilladhaneesh)
 
