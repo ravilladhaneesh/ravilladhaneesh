@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ravilla Dhaneesh</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-- 🔭 I’m currently working on [securethem](https://securethem.com)
-
 - 🌱 I’m currently learning and enhancing my skills on **Java**, **AWS**, **DevOps**, **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ravilladhaneesh](https://github.com/ravilladhaneesh)
